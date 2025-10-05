@@ -14,3 +14,5 @@ The steps are as follows:
 3) it should open your browser and redirect you to localhost, where you can start exploring!
 
 Note: all times are Universal Coordinated Time. A query further than 2026 AUG 20 will not work as of today (10/5/2025), the M2T1NXSLV hasn't been updated to the most recent date, and we can only serve requests maximum one year from now. 
+
+You may need to update the requirements.txt file yourself for any missing imports 
