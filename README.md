@@ -4,7 +4,7 @@ Due to the constraints of funds, we are unable to host a server. This repository
 
 The fully working product is a 2GB folder, and anytime a request is made it downloads about 2.5GB of M2T1NXSLV files. (if a request is made for the same date but different location then it doesn't download everything.) 
 
-It can be found here: https://drive.google.com/drive/folders/1AIrb6n3XaZtQw5XHlTOjpTPjUKZ9KO3n
+The full app can be found here: https://drive.google.com/drive/folders/1AIrb6n3XaZtQw5XHlTOjpTPjUKZ9KO3n
 
 To get it working, one would have to have python installed and have an earthdata login account (userID and Password)
 The steps are as follows: 
